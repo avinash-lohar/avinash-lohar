@@ -1,4 +1,4 @@
-<h1> <b> 👋 Avinash Lohar</b> </h1>
+<h1> <b> 👋 ``Avinash Lohar``</b> </h1>
 <p>🌱 Java, SpringBoot, Angular </p>
 <p>🏠 Pune, India </p>
 <!---
